@@ -1,1 +1,4 @@
-* Added Table B.4\n* Minor bugs fixed\n* More message
+* Added Table B.4
+* Minor bugs fixed
+* More message
+* More
