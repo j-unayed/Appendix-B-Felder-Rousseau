@@ -1,2 +1,3 @@
-* Added Table B.4
 * Minor bugs fixed
+* Test Message 1
+* Test Message 2
