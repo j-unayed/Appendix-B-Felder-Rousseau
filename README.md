@@ -19,7 +19,7 @@ The app currently includes:
 - **Tables included:** B.1, B.2, and B.4  
 - **Search functionality:** Users can search by **component name** or **chemical formula**  
 
-### Screenshots
+## Screenshots
 
 <p float="left">
   <img src="screenshots/splash.jpg" width="15%" />
