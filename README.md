@@ -2,15 +2,15 @@
 
 This is an Android app designed for quick access to **Appendix B** of *Elementary Principles of Chemical Processes* by Richard M. Felder and Ronald W. Rousseau.
 
-## Download & Community
+## Download
 
 - **Download APK:** [Appendix_B.apk](https://github.com/j-unayed/Appendix-B-Felder-Rousseau/releases/download/android/appendix_B.apk)  
 - **Download APK (Mirror link):** [Uptodown](https://appendix-b.en.uptodown.com/android)  
 
 ## Community
  
-- **Reddit discussion:** [What people from all over the world are saying](https://www.reddit.com/r/ChemicalEngineering/comments/1ggaygf/android_app_for_appendix_b_of_elementary/)  
-- **ChemicalBUET discussion:** [What allumni and current students are saying](https://www.facebook.com/groups/300813446745211/permalink/2801251783368019/?rdid=CGaI0cQh7RKNsEdB#)
+- **Reddit discussion:** [What people from all over the world are saying?](https://www.reddit.com/r/ChemicalEngineering/comments/1ggaygf/android_app_for_appendix_b_of_elementary/)  
+- **ChemicalBUET discussion:** [What allumni and current students are saying?](https://www.facebook.com/groups/300813446745211/permalink/2801251783368019/?rdid=CGaI0cQh7RKNsEdB#)
 
 ## About the App
 
