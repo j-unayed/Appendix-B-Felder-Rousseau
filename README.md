@@ -6,7 +6,8 @@ This is an Android app designed for quick access to **Appendix B** of *Elementar
 
 - **Primary APK:** [Appendix_B.apk](https://github.com/j-unayed/Appendix-B-Felder-Rousseau/releases/download/android/appendix_B.apk)  
 - **Mirror link:** [Uptodown](https://appendix-b.en.uptodown.com/android)  
-- **Reddit discussion:** [What people are saying](https://www.reddit.com/r/ChemicalEngineering/comments/1ggaygf/android_app_for_appendix_b_of_elementary/)
+- **Reddit discussion:** [What people are saying](https://www.reddit.com/r/ChemicalEngineering/comments/1ggaygf/android_app_for_appendix_b_of_elementary/)  
+- **ChemicalBUET discussion:** [What people are saying](https://www.facebook.com/groups/300813446745211/permalink/2801251783368019/?rdid=CGaI0cQh7RKNsEdB#)
 
 ## About the App
 
@@ -14,6 +15,29 @@ The app currently includes:
 
 - **Tables included:** B.1, B.2, and B.4  
 - **Search functionality:** Users can search by **component name** or **chemical formula**  
+
+### Screenshots
+
+<p float="left">
+  <img src="screenshots/splash.jpg" width="20%" />
+  <img src="screenshots/homepage.jpg" width="20%" />
+</p>
+
+<p float="left">
+  <img src="screenshots/table_b1_a.jpg" width="20%" />
+  <img src="screenshots/table_b1_b.jpg" width="20%" />
+</p>
+
+<p float="left">
+  <img src="screenshots/table_b2_a.jpg" width="20%" />
+  <img src="screenshots/table_b2_b.jpg" width="20%" />
+</p>
+
+<p float="left">
+  <img src="screenshots/table_b4_a.jpg" width="20%" />
+  <img src="screenshots/table_b4_b.jpg" width="20%" />
+</p>
+
 
 ### Special Features
 
@@ -35,4 +59,3 @@ The app currently includes:
 - Users will be notified within the app when new tables are available  
 
 Try the app and provide feedback to help improve it!
-
